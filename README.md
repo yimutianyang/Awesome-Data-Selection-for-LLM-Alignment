@@ -61,6 +61,7 @@
 | Title | Method | Dataset | Key Findings | Resources |  
 |-------|--------|---------|--------------|-----------|  
 | [Reward-Augmented Data Enhances Direct Preference](https://openreview.net/forum?id=bpSD3IOgyS) | Reward-guided synthetic generation | Anthropic HH, UltraFeedback | +14% alignment improvement | [PDF](https://arxiv.org/pdf/2410.08067) [Code](https://github.com/shenao-zhang/reward-augmented-preference) |  
+| [Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization](https://arxiv.org/abs/2508.13993) | Multi-armed bandit chunk sampling to generate high-quality, diverse DPO pairs | LongBench, InfiniteBench | >4% gain on long-context reasoning (Llama, Qwen) | [PDF](https://arxiv.org/pdf/2508.13993) [Code](https://github.com/NEUIR/LongMab-PO) |  
  
 
 
